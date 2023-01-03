@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T23:42:09.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="7_8HqBuG2_GNwkwhgxZb" version="20.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-03T23:48:15.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="OW8nIAHdH2UFFwEpE2b0" version="20.8.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1434" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -100,6 +100,9 @@
             <mxPoint x="730" y="360" as="sourcePoint" />
             <mxPoint x="759.1994451285223" y="308.0898753270717" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="srv3Akw763_rH6EvhWY8-23" value="&lt;u&gt;&lt;b&gt;ENTITY RELATIONSHIP MODEL FOR EXPENSE PLANNER DATABASE&lt;/b&gt;&lt;/u&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TWO ENTITIES&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;RELATIONSHIP IS &#39;SPENDS&#39;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ONE TO MANY RELATIONSHIP OF ENTITIES TO THEIR ATTRIBUTES&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-10" width="470" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
